@@ -5,4 +5,4 @@ Syntax of the cheat: 'partcount' or 'PartCount'
 # Updates:
 v1.1: Add a new system to warn player if the number of parts is almost 255.
 # Credits:
-emd - The creator of Spore ModAPI SDK and the guide in the progression of this mod.
+[@emd4600](https://github.com/emd4600) - The creator of Spore ModAPI SDK and the guide in the progression of this mod.
